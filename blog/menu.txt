@@ -1,0 +1,27 @@
+<div class="menu">
+    <div class="titl"><a href="http://www.vishalpandey.xyz"><b> Vishal Pandey </b></a> </div>
+    
+    <ul class="topnav" id="myTopnav">
+      <li><a href="#"></a></li>
+      <li><a href="http://www.vishalpandey.xyz/">Home</a></li>
+      <li><a href="http://www.vishalpandey.xyz/work.php">Portfolio</a></li>
+      <li><a href="http://www.vishalpandey.xyz/blog/">Blog</a></li>
+      <li><a href="http://www.vishalpandey.xyz/">Need Me</a></li>
+      <li><a href="http://www.vishalpandey.xyz/">Contact Me</a></li>
+      <li class="icon"><a href="javascript:void(0);" onclick="myFunction()">MENU</a></li>
+    </ul>
+  </div>
+
+
+
+<script type="text/javascript">
+  
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>

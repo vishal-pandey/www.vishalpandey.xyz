@@ -1,0 +1,47 @@
+<div class="vishal col-12">
+
+	<div class="col-4 fcontact">
+	<div class="fhead">Contact</div>
+		Address : G3 Wazirabad Delhi - 110084
+		<br>Phone : 9717130893
+		<br>Email : me@pandeyvishal.com , pandeyvishal25@yahoo.com
+
+
+		
+	</div>
+
+	<div class="col-4 fsitemap">
+	<div class="fhead">Site Map</div>
+
+		<ul>
+		<li><a href="http://www.vishalpandey.xyz">Home</a></li>
+		<li><a href="http://www.vishalpandey.xyz/work.php">Portfolio</a></li>
+		<li><a href="http://www.vishalpandey.xyz/blog">Blog</a></li>
+		<li><a href="http://www.vishalpandey.xyz/#">Need Me</a></li>
+		<li><a href="http://www.vishalpandey.xyz/#">Contact Me</a></li>
+
+			
+		</ul>
+
+
+
+		
+	</div>
+
+	<div class="col-4 fsocial">
+	<div class="fhead">Social</div>
+		<ul>
+		<li><a href="http://www.facebook.com/the.vishal.pandey"><img src="http://www.vishalpandey.xyz/facebook.png"></a> </li>
+		<li><a href="https://plus.google.com/u/0/109712308677416674874"><img src="http://www.vishalpandey.xyz/goo.png"></a> </li>
+		<li><a href="https://twitter.com/vishalpandeyweb"><img src="http://www.vishalpandey.xyz/twitterlogo.png"></a> </li>
+		<li><a href="https://www.linkedin.com/in/thevishalpandey/"><img src="http://www.vishalpandey.xyz/linkedinlogo.png"></a> </li>
+		<li><a href="https://vishalpandey.quora.com/"><img src="http://www.vishalpandey.xyz/quoralogo.png"></a> </li>
+		<li><a href="https://github.com/vishal-pandey"><img src="http://www.vishalpandey.xyz/githublogo.png"></a> </li>
+
+			
+		</ul>
+		
+	</div>
+
+	
+</div>

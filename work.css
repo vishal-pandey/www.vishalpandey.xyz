@@ -1,0 +1,130 @@
+iframe{
+  width: 100%;
+  height: 495px;
+  /*border:0;*/
+  opacity: 1;
+  /*box-shadow: 15px 15px 15px black;*/
+}
+/*
+iframe.mobile{
+  width: 400px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+*/
+
+div.sitee{
+  /*width: 80%;*/
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  float: initial;
+  /*border-style: solid;*/
+
+}
+
+div.wheading{
+  text-align: center;
+  color: #ea04d7;
+}
+
+div.washcontainer{
+  /*height: 4000px;*/
+  height: auto;
+  /*background-color:  lightblue;*/
+  /*opacity: 0.8;*/
+  background-color: rgba(173,216,230,0.8);
+  
+}
+  
+div.skills{
+  background-color: lightyellow;
+  border-style: solid;
+  border-color: grey;
+  border-width: 20px;
+  border-color: lightpurple;
+  border-radius: 50px;
+  padding-right: 50px;
+  box-shadow: 15px 15px 15px black;
+
+}
+
+div.card{
+  background-color: white ;
+  text-align: center;
+  min-height: 450px;
+  border-style: ridge;
+  border-width: 20px;
+  border-color: green;
+  box-shadow: 15px 15px 15px black;
+}
+
+div.academic{
+  float: initial;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.ccard{
+  background-color: white ;
+  text-align: center;
+  min-height: 450px;
+  border-style: ridge;
+  border-width: 20px;
+  border-color: purple;
+  box-shadow: 15px 15px 15px black;
+}
+
+div.competion{
+  float: initial;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+div.card h3{
+  color: red;
+}
+
+div.ccard h3{
+  color: #632307;
+}
+
+
+
+h2,h3,body{
+  text-shadow: 15px 15px 15px black;
+}
+
+div.menu{
+  text-shadow: initial;
+
+
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+  div.mobile{
+    background: url('iphone.png');
+    background-size: 143% 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-left: 48px; 
+    padding-right: 50px; 
+    height: 700px;
+
+  }
+
+
+
+
+}
