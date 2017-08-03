@@ -1,0 +1,56 @@
+body{
+	/*width: 100%;*/
+		background-image: url('./bpic/gbu1.jpg');
+
+
+}
+
+div.syllabus{
+	text-transform: capitalize;
+	width: 70%;
+	/*margin-left: auto;*/
+	margin-right: auto;
+
+}
+
+div.syllabus h2{
+	text-align: center;	
+	color: rgba(0,0,0,0.5);
+	background-color: rgba(125,125,125,0.5); 
+	padding: 25px;
+}
+
+
+div.syllabus ul li{
+	border: 1px solid black;
+	list-style-type: none;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	box-shadow: 5px 5px 15px rgba(102,102,102,1);
+	background-color: rgba(105,105,105,0.5);
+}
+div.syllabus ul li ul li{
+	list-style-type: initial;
+	/*border: initial;*/
+	border: 1px solid rgba(225,215,225,1);
+	background-color: rgba(225,225,225,1); 
+	margin-bottom: 2px;
+	margin-top: 2px;
+	width: 90%;
+	padding: 2px;
+	box-shadow: initial;
+	display: inline-block;
+}
+div.syllabus ul h3{
+	background-color: rgba(125,125,125,1);
+	padding: 5px;
+}
+
+
+@media only screen and (max-width: 768px)
+{
+  width: 100%;   
+
+
+}
+

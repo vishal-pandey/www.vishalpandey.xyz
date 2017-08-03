@@ -1,0 +1,80 @@
+<div id='sample_comment' class='sample_comment'>
+							<div id='sample_name' class='sample_name'>
+								vishal pandey
+							</div>
+
+							<div id='test_comment' class='test_comment'>
+								vishal is great
+
+							</div>
+
+							<br>	08:11:45am 2016-10-04
+
+						</div>
+								<br>
+						<div id='sample_comment' class='sample_comment'>
+							<div id='sample_name' class='sample_name'>
+								pandey vishal
+							</div>
+
+							<div id='test_comment' class='test_comment'>
+								pabbdeuhfjfdms
+							</div>
+
+							<br>	at 08:13:26am 2016-10-04
+
+						</div>
+								<br>
+
+<div id='sample_comment' class='sample_comment'>
+				<div id='sample_name' class='sample_name'>
+					vishal pandey
+				</div>
+
+				<div id='test_comment' class='test_comment'>
+					this is to test the comment system
+				</div>
+
+			</div>
+			<br>
+			<div id='sample_comment' class='sample_comment'>
+							<div id='sample_name' class='sample_name'>
+								pandey vishal 
+							</div>
+
+							<div id='test_comment' class='test_comment'>
+								again testing the comment system
+							</div>
+
+							<br>	at 05:43:42pm 2016-10-08
+
+						</div>
+								<br>
+						<div id='sample_comment' class='sample_comment'>
+							<div id='sample_name' class='sample_name'>
+								vihshall
+							</div>
+
+							<div id='test_comment' class='test_comment'>
+								testing is continue
+
+							</div>
+
+							<br>	at 10:59:09pm 2016-10-08
+
+						</div>
+								<br>
+						<div id='sample_comment' class='sample_comment'>
+							<div id='sample_name' class='sample_name'>
+								vishal pandey
+							</div>
+
+							<div id='test_comment' class='test_comment'>
+								testing for correct time zone
+							</div>
+
+							<br>	at 11:30:28pm 2016-10-08
+
+						</div>
+								<br>
+						
