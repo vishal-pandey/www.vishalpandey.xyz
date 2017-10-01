@@ -17,8 +17,8 @@
 		<li><a href="https://www.vishalpandey.xyz">Home</a></li>
 		<li><a href="https://www.vishalpandey.xyz/work.php">Portfolio</a></li>
 		<li><a href="https://www.vishalpandey.xyz/blog">Blog</a></li>
-		<li><a href="https://www.vishalpandey.xyz/#">Need Me</a></li>
-		<li><a href="https://www.vishalpandey.xyz/#">Contact Me</a></li>
+		<li><a href="https://www.vishalpandey.xyz/needme.php">Need Me</a></li>
+		<li><a href="https://www.vishalpandey.xyz/contact.php">Contact Me</a></li>
 
 			
 		</ul>

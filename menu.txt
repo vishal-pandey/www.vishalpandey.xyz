@@ -6,7 +6,7 @@
       <li><a href="https://www.vishalpandey.xyz/">Home</a></li>
       <li><a href="https://www.vishalpandey.xyz/work.php">Portfolio</a></li>
       <li><a href="https://www.vishalpandey.xyz/blog/">Blog</a></li>
-      <li><a href="https://www.vishalpandey.xyz/contact.php">Need Me</a></li>
+      <li><a href="https://www.vishalpandey.xyz/needme.php">Need Me</a></li>
       <li><a href="https://www.vishalpandey.xyz/contact.php">Contact Me</a></li>
       <li class="icon"><a href="javascript:void(0);" onclick="myFunction()">MENU</a></li>
     </ul>
