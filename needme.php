@@ -20,7 +20,7 @@
 <br><br>
 
 <div class="col-12 container11">
-  <h2>There are the things</h2>
+  <h2>Services I Can Provide</h2>
   <div class="service">
     <h3>Web Designing</h3>
     <p></p>
@@ -32,7 +32,7 @@
   </div>
 
   <div class="service">
-    <h3>UI / UX</h3>
+    <h3>UI / UX Designing</h3>
     <p></p>
   </div>
 
@@ -43,6 +43,11 @@
 
   <div class="service">
     <h3>Content Writing</h3>
+    <p></p>
+  </div>
+
+  <div class="service">
+    <h3>Search Engine Optimisation</h3>
     <p></p>
   </div>
 
@@ -127,7 +132,7 @@
   </div>
 
   <div class="service">
-    <h3>Can Any Thing Smart Trough IOT</h3>
+    <h3>Make Thing Smart Trough IOT</h3>
     <p></p>
   </div>
 
