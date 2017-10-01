@@ -23,90 +23,72 @@
 
   <div class="wheading col-12"><h2>Projects</h2></div>
 
-  <div class="sitee col-9">
-      
-    <h2><a href="http://www.myvolunteer.in/"> My Volunteer </a></h2>
-    <p>
-      Start Up In volunteering service
-    </p>
-
-    <div class="mobile">      
-      <iframe src="https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwik07C9u_PTAhVMvY8KHXvsDvsQFggiMAA&url=http%3A%2F%2Fwww.myvolunteer.in%2F&usg=AFQjCNFfnUf5QJclpv6LLSlPNsifvUUdsA&sig2=WkP5YImg0EX6NeSPBfSe_w"></iframe>
+  <a href="http://www.sikkimmountains.com/">
+    <div class="sitee col-9">
+      <h2> Sikkim Mountains </h2>
+      <p>
+        A tour and travels company from Sikkim
+      </p>
+      <div class="mobile">      
+        <img src="./sample/sikkimmountains_m.png" class="iframe1">
+      </div>
+      <div class="desktop">      
+        <img src="./sample/sikkimmountains.png" class="iframe1">
+      </div>
     </div>
-  </div>
+  </a>
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <a href="http://www.rvsinstitute.com/">
+    <div class="sitee col-9">
+      <h2> RVS Institute </h2>
+      <p>
+        A Coaching Institute in JagatPur Area
+      </p>
+      <div class="mobile">      
+        <img src="./sample/rvsinstitute_m.png" class="iframe1">
+      </div>
+      <div class="desktop">      
+        <img src="./sample/rvsinstitute.png" class="iframe1">
+      </div>
+    </div>
+  </a>
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <a href="http://www.saraswatieduhub.com">
+    <div class="sitee col-9">
+      <h2> Saraswati Edu Hub </h2>
+      <p>
+        A Coaching Institute In Wazirabad Area
+      </p>
+      <div class="mobile">      
+        <img src="./sample/saraswatieduhub_m.png" class="iframe1">
+      </div>
+      <div class="desktop">      
+        <img src="./sample/saraswatieduhub.png" class="iframe1">
+      </div>
+    </div>
+  </a>
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <a href="http://www.myvolunteer.in/">
+    <div class="sitee col-9">
+      <h2> My Volunteer </h2>
+      <p>
+        Start Up In volunteering service
+      </p>
+      <div class="mobile">      
+        <img src="./sample/myvolunteer_m.png" class="iframe1">
+      </div>
+      <div class="desktop">      
+        <img src="./sample/myvolunteer.png" class="iframe1">
+      </div>
+    </div>
+  </a>
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-  <div class="sitee col-9">
-      
-    <h2><a href="http://www.gbusocialserviceclub.com/"> GBU Social Service Club </a></h2>
-    <p>
-      Club Of SOICT For Social service under GBU
-    </p>
-    
-    <div class="mobile">
-      <iframe src="http://www.gbusocialserviceclub.com/"></iframe>
-    </div>
-  </div>
   
-  <br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-  <div class="sitee col-9">
-    
-    <h2><a href="http://www.udaanassociate.com"> Udaan Associate </a></h2>
-    <p>
-      Udaan associate is a local business associate with four sub businesses which are 1.) MSC Library 2.) Udaan Coaching 3.) Room on rent 4.) Udaan Properties
-    </p>
-
-    <div class="mobile">
-    <iframe src="http://www.udaanassociate.com"></iframe>
-    </div>
-  </div>
-
-  <br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-  <div class="sitee col-9">
-    
-    <h2><a href="http://www.udaanconstruction.com"> Udaan Construction </a></h2>
-    <p>
-      Another Bussiness Of Udaan , Made With BootStrap.
-    </p>
-
-    <div class="mobile">
-    <iframe src="http://www.udaanconstruction.com"></iframe>
-    </div>
-  </div>
-
-  <br><br><br><br><br><br><br><br><br><br><br><br><br>  
-
-  <div class="sitee col-9">
-    
-    <h2><a href="http://www.shinchannohara.com"> Shinchan Nohara </a></h2>
-    <p>
-      Cartoon character I love the Most.
-    </p>
-    <div class="mobile">
-      
-    <iframe src="http://www.shinchannohara.com"></iframe>
-    </div>
-  </div>
-
-  <br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-  <div class="sitee col-9">
-    
-    <h2><a href="http://www.omsaiacademy.com">Om Sai Academy</a></h2>
-    <p>
-      Om Sai Academy Coaching For Spoken English. Customlly Designed Responsive CSS
-    </p>
-
-    <div class="mobile">
-    <iframe src="https://www.google.com/search?q=%http://www.omsaiacademy.com&btnI=Im+Feeling+Lucky"></iframe>
-    </div>
-  </div>
-
-  <br><br><br><br><br><br><br><br><br><br><br><br><br>
-
   <div class="col-3"></div>
 
   <div class="skills col-6">

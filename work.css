@@ -1,6 +1,6 @@
-iframe{
+.iframe1{
   width: 100%;
-  height: 495px;
+  height: 600px;
   /*border:0;*/
   opacity: 1;
   background-color: white;
@@ -27,6 +27,9 @@ div.sitee{
 
 }
 
+.sitee p{
+  color: white;
+}
 div.wheading{
   text-align: center;
   color: #ea04d7;
@@ -37,7 +40,7 @@ div.washcontainer{
   height: auto;
   /*background-color:  lightblue;*/
   /*opacity: 0.8;*/
-  background-color: rgba(173,216,230,0.8);
+  background-color: rgba(0,0,0,0.8);
   
 }
   
@@ -87,6 +90,10 @@ div.competion{
 
 
 
+.sitee{
+  color: white;
+  text-decoration: none;
+}
 
 div.card h3{
   color: red;
@@ -99,7 +106,7 @@ div.ccard h3{
 
 
 h2,h3,body{
-  text-shadow: 15px 15px 15px black;
+  /*text-shadow: 15px 15px 15px black;*/
 }
 
 div.menu{
@@ -108,6 +115,9 @@ div.menu{
 
 }
 
+.mobile{
+  display: none;
+}
 
 
 
@@ -126,10 +136,14 @@ div.menu{
     float: initial;
     margin-left: auto;
     margin-right: auto; 
-
+    display: block
   }
 
-  div.mobile iframe{
+  .desktop{
+    display: none;
+  }
+
+  div.mobile .iframe1{
     width: 263px;
     height: 365px;
     margin-top: 68px;
