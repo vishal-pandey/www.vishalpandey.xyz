@@ -73,7 +73,7 @@
       
       <h3 style="color: white; text-align: center; font-size: 25px;">twitter</h3>
       
-      <a class="twitter-timeline" href="https://twitter.com/vishalpandeyweb">Tweets by vishalpandeyweb</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <a class="twitter-timeline" href="https://twitter.com/vishalpandeyxyz">Tweets by vishalpandeyxyz</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
     </div>
