@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="Unicode/UTF-8">
     <meta name="description" content="vishal pandey is a budding web designer. This is portfolio of Vishal pandey">
-    <meta name="keywords" content="vishalpandey vishal pandey pandeyvishal vishalthewebdesigner web designer">
+    <meta name="keywords" content="vishalpandey vishal pandey pandeyvishal vishalthewebdesigner web designer vishal pandey xyz">
     <link rel="icon" 
       type="image/png" 
       href="./myicon.png">
