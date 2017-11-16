@@ -33,12 +33,12 @@
 		<ul>
 		<li><a href="https://www.facebook.com/the.vishal.pandey"><img src="https://www.vishalpandey.xyz/facebook.png"></a> </li>
 		<li><a href="https://plus.google.com/u/0/109712308677416674874"><img src="https://www.vishalpandey.xyz/goo.png"></a> </li>
-		<li><a href="https://twitter.com/vishalpandeyweb"><img src="https://www.vishalpandey.xyz/twitterlogo.png"></a> </li>
+		<li><a href="https://twitter.com/vishalpandeyxyz"><img src="https://www.vishalpandey.xyz/twitterlogo.png"></a> </li>
 		<li><a href="https://www.linkedin.com/in/thevishalpandey/"><img src="https://www.vishalpandey.xyz/linkedinlogo.png"></a> </li>
 		<li><a href="https://vishalpandey.quora.com/"><img src="https://www.vishalpandey.xyz/quoralogo.png"></a> </li>
 		<li><a href="https://github.com/vishal-pandey"><img src="https://www.vishalpandey.xyz/githublogo.png"></a> </li>
 		<li><a href="https://stackoverflow.com/users/7626313/vishal-pandey"><img src="https://www.vishalpandey.xyz/stackoverflow.png"></a> </li>
-		<li><a href="https://www.instagram.com/vishal_._pandey/"><img src="https://www.vishalpandey.xyz/instagram.jpg"></a> </li>
+		<li><a href="https://www.instagram.com/vishalpandeyxyz/"><img src="https://www.vishalpandey.xyz/instagram.jpg"></a> </li>
 			
 		</ul>
 		
