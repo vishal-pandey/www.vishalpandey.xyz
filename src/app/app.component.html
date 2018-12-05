@@ -1,0 +1,48 @@
+<section *ngIf="!mobile">
+	<app-header></app-header>
+	<router-outlet></router-outlet>
+	<app-footer></app-footer>
+</section>
+
+<section *ngIf="mobile">
+
+<mat-toolbar class="menu_tooll">
+  <button mat-icon-button (click)="sidenav.toggle()">
+  	<mat-icon>menu</mat-icon>
+  </button>
+  <span>Vishal Pandey</span>
+</mat-toolbar>
+
+<mat-sidenav-container class="example-container">
+  <mat-sidenav #sidenav [mode]="mode" [fixedInViewport]="'true'" fixedTopGap="0" class="the_menu">
+  	<mat-toolbar class="menu_tooll">
+		  <button mat-icon-button (click)="sidenav.toggle()">
+		  	<mat-icon>menu</mat-icon>
+		  </button>
+		  <span>Vishal Pandey</span>
+		</mat-toolbar>
+		<section class="links">
+			<br>
+	    <a routerLink="/"><button mat-button (click)="sidenav.toggle()">Home</button></a>
+	    <a href="https://blog.vishalpandey.xyz/"><button mat-button >Blog</button></a>
+			<a routerLink="/portfolio"><button mat-button (click)="sidenav.toggle()">Portfolio</button></a>
+			<a routerLink="/skills"><button mat-button (click)="sidenav.toggle()">Skills</button></a>
+			<a routerLink="/contact"><button mat-button (click)="sidenav.toggle()">Contact Me</button></a>
+			<a href=""><button mat-button><i class="fa fa-github" aria-hidden="true" style="font-size: 25px;"></i></button></a>
+		</section>
+    
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <section color="background">
+			<router-outlet></router-outlet>
+    </section>
+		<app-footer></app-footer>
+  </mat-sidenav-content>
+
+</mat-sidenav-container>
+
+
+
+
+</section>

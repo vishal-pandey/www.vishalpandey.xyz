@@ -1,0 +1,25 @@
+<section class="container">
+	<br>
+	<h2>PORTFOLIO</h2>
+	<section class="content">
+		<div class="project" *ngFor="let project of projects">
+			<div class="photo">
+				<img src="{{project.photo}}">
+			</div>
+			<div class="description">
+				<div class="d-head">
+					<h3>
+						<span class="github"><a href="{{project.link}}"><i class="fa fa-link" aria-hidden="true"></i></a></span>
+						<span>{{project.name}}</span>
+						<span class="github"><a href="{{project.github}}"><i class="fa fa-github" aria-hidden="true"></i></a></span>
+					</h3>
+				</div>
+				<div class="the-description">
+					<b>Technologies</b> : <span class="tech">{{project.tech}}</span><br>
+					<b>Features</b> : <span class="features">{{project.feat}}</span>
+				</div>
+			</div>
+		</div>
+	</section>
+	<br>
+</section>

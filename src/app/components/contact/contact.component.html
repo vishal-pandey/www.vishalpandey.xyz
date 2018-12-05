@@ -1,0 +1,12 @@
+<section class="container">
+	<br>
+	<h2>--CONTACT ME--</h2>
+	<section class="content">
+		<div class="contact-c" *ngFor="let contact of contacts">
+			<div class="title">{{contact.title}}</div>
+			<div class="icon">
+				<a href="{{contact.link}}" target="_blank" [innerHTML]="contact.icon"></a>
+			</div>
+		</div>
+	</section>
+</section>

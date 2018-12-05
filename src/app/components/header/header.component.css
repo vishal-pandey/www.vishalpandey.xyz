@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter');
+.header{
+	background-color: #607D8B;
+	color: #ECEFF1;
+	font-family: 'Bitter', serif;
+	z-index: 1001;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+h1{
+	font-family: 'Bitter', serif;
+	cursor: pointer;
+}
+.menu a, .header a{
+	color: #ECEFF1;
+	text-decoration: none;
+}
+

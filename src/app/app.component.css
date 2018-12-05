@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter');
+.menu_tooll{
+	background-color: #607D8B;
+	color: #ECEFF1;
+	font-family: 'Bitter', serif;
+}
+.the_menu{
+	width: 100%;
+	background-color: #607D8B;
+}
+.links{
+	width: 100%;
+	background-color: #607D8B;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-direction: column;
+	height: 70vh;
+
+}
+.links a{
+	color: #ECEFF1;
+}
