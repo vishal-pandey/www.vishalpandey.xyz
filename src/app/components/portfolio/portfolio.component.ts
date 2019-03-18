@@ -14,6 +14,14 @@ export class PortfolioComponent implements OnInit {
 
   projects = [
   	{
+      name: 'IOT Demo',
+      photo: 'assets/portfolio/iotdemo.png',
+      link: 'https://iotdemo.vishalpandey.xyz/',
+      github: 'https://github.com/vishal-pandey/iotdemo',
+      tech: 'Python, PHP, Javascript, Angular, Raspberry Pi',
+      feat: 'Demonstration of the live working of the IOT, the physical device of this project is also made of raspberry pi. The code is present on the github you can implement for yourself very easily.',
+    },
+    {
   		name: 'Nav Nirman',
   		photo: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/navnirman.png',
   		link: 'http://www.navnirman.co/',

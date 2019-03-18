@@ -82,6 +82,7 @@ import { NotfoundComponent } from './components/notfound/notfound.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { PortfolioComponent } from './components/portfolio/portfolio.component';
 import { SkillsComponent } from './components/skills/skills.component';
+import { GalleryComponent } from './components/gallery/gallery.component';
 
 @NgModule({
   declarations: [
@@ -92,7 +93,8 @@ import { SkillsComponent } from './components/skills/skills.component';
     NotfoundComponent,
     ContactComponent,
     PortfolioComponent,
-    SkillsComponent
+    SkillsComponent,
+    GalleryComponent
   ],
   imports: [
     AppRoutingModule,
