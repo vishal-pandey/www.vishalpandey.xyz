@@ -11,9 +11,27 @@
 h1{
 	font-family: 'Bitter', serif;
 	cursor: pointer;
+	line-height: 100%;
 }
 .menu a, .header a{
 	color: #ECEFF1;
 	text-decoration: none;
 }
 
+.avatar{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background-color: green;
+	display: inline-block;
+	margin-right: 10px;
+	position: relative;
+	background: url('/assets/me.jpeg');
+	background-size: 100% 100%;
+	background-position: center;
+}
+.logo{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
