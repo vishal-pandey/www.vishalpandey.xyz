@@ -78,6 +78,14 @@
 	background-color: green;
 }
 
+a.resume{
+	color: white;
+	text-decoration: none;
+}
+a.resume:hover{
+	text-decoration: underline;
+}
+
 @media screen and (max-width: 780px) {
 	.main{
 		background-size: auto 100%;
