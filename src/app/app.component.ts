@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {BreakpointObserver, Breakpoints} from '@angular/cdk/layout';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,16 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Tour of Heroes';
+  title = 'Vishal Pandey';
+  mobile:boolean = false;
+  constructor(breakpointObserver: BreakpointObserver){
+  	breakpointObserver.observe([
+      Breakpoints.HandsetLandscape,
+      Breakpoints.HandsetPortrait
+    ]).subscribe(result => {
+      if (result.matches) {
+        this.mobile = true;
+      }
+    });
+  }
 }
