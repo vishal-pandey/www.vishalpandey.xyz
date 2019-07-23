@@ -1,0 +1,40 @@
+<section class="container">
+	<section class="main">
+		<div class="console" cdkDrag>
+			<div class="bar">
+				<span class="circle green"></span>
+				<span class="circle yellow"></span>
+				<span class="circle red" (click)="close()">
+					<span class="tooltip">close</span>
+				</span>
+			</div>
+			<div class="intro-container">
+				<span><span class="promt">C:\Users\Vishal></span>&nbsp;&nbsp;</span>
+				<span>
+					<span class="promt">C:\Users\Vishal></span>&nbsp;&nbsp;
+					<a href="https://github.com/vishal-pandey" class="resume" target="_blank">
+						Github
+						<section class="github-section">
+							<i class="fa fa-github" aria-hidden="true"></i>
+							<span>/vishal-pandey</span>
+						</section>
+					</a>&nbsp;&nbsp;
+					<a href="https://raw.githubusercontent.com/vishal-pandey/www.vishalpandey.xyz/master/Resume.pdf" class="resume">
+						Resume
+						<section class="github-section">
+							<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+							<span>Download</span>
+						</section>
+					</a>
+
+				</span>
+				<span><span class="promt">C:\Users\Vishal></span>&nbsp;&nbsp;</span>
+				<span><span class="promt">C:\Users\Vishal></span>&nbsp;
+				<span class="intro"></span></span>
+			</div>
+		</div>
+		<div class="bringBackButton" style="display: none;">
+			<button mat-stroked-button (click)="bringBack()">Open</button>
+		</div>
+	</section>
+</section>

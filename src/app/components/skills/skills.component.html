@@ -1,0 +1,13 @@
+<section class="container">
+	<br>
+	<h2>SKILLS</h2>
+	<section class="content">
+		<div class="skill" style="display: none;"></div>
+		<div class="skill" *ngFor="let skill of skills">
+			<span class="heading">{{skill.name}}</span>
+			<span class="s-content">
+				<img src="{{skill.img}}">
+			</span>
+		</div>
+	</section>
+</section>
