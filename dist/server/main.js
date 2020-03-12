@@ -1447,13 +1447,13 @@ const i11 = __webpack_require__(/*! ./header.component */ "./src/app/components/
 var styles_HeaderComponent = [i0.styles];
 var RenderType_HeaderComponent = i1.ɵcrt({ encapsulation: 0, styles: styles_HeaderComponent, data: {} });
 exports.RenderType_HeaderComponent = RenderType_HeaderComponent;
-function View_HeaderComponent_0(_l) { return i1.ɵvid(0, [(_l()(), i1.ɵeld(0, 0, null, null, 37, "mat-toolbar", [["class", "header mat-toolbar"]], [[2, "mat-toolbar-multiple-rows", null], [2, "mat-toolbar-single-row", null]], null, null, i2.View_MatToolbar_0, i2.RenderType_MatToolbar)), i1.ɵdid(1, 4243456, null, 1, i3.MatToolbar, [i1.ElementRef, i4.Platform, i5.DOCUMENT], null, null), i1.ɵqud(603979776, 1, { _toolbarRows: 1 }), (_l()(), i1.ɵeld(3, 0, null, 0, 6, "span", [["class", "logo"]], null, null, null, null, null)), (_l()(), i1.ɵeld(4, 0, null, null, 2, "h1", [["routerLink", "/"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; if (("click" === en)) {
+function View_HeaderComponent_0(_l) { return i1.ɵvid(0, [(_l()(), i1.ɵeld(0, 0, null, null, 33, "mat-toolbar", [["class", "header mat-toolbar"]], [[2, "mat-toolbar-multiple-rows", null], [2, "mat-toolbar-single-row", null]], null, null, i2.View_MatToolbar_0, i2.RenderType_MatToolbar)), i1.ɵdid(1, 4243456, null, 1, i3.MatToolbar, [i1.ElementRef, i4.Platform, i5.DOCUMENT], null, null), i1.ɵqud(603979776, 1, { _toolbarRows: 1 }), (_l()(), i1.ɵeld(3, 0, null, 0, 6, "span", [["class", "logo"]], null, null, null, null, null)), (_l()(), i1.ɵeld(4, 0, null, null, 2, "h1", [["routerLink", "/"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; if (("click" === en)) {
         var pd_0 = (i1.ɵnov(_v, 5).onClick() !== false);
         ad = (pd_0 && ad);
     } return ad; }, null, null)), i1.ɵdid(5, 16384, null, 0, i6.RouterLink, [i6.Router, i6.ActivatedRoute, [8, null], i1.Renderer2, i1.ElementRef], { routerLink: [0, "routerLink"] }, null), (_l()(), i1.ɵeld(6, 0, null, null, 0, "span", [["class", "avatar"]], null, null, null, null, null)), (_l()(), i1.ɵeld(7, 0, null, null, 2, "h1", [["routerLink", "/"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; if (("click" === en)) {
         var pd_0 = (i1.ɵnov(_v, 8).onClick() !== false);
         ad = (pd_0 && ad);
-    } return ad; }, null, null)), i1.ɵdid(8, 16384, null, 0, i6.RouterLink, [i6.Router, i6.ActivatedRoute, [8, null], i1.Renderer2, i1.ElementRef], { routerLink: [0, "routerLink"] }, null), (_l()(), i1.ɵted(-1, null, ["Vishal Pandey"])), (_l()(), i1.ɵeld(10, 0, null, 0, 27, "span", [["class", "menu"]], null, null, null, null, null)), (_l()(), i1.ɵeld(11, 0, null, null, 3, "a", [["href", "https://blog.vishalpandey.xyz/"]], null, null, null, null, null)), (_l()(), i1.ɵeld(12, 0, null, null, 2, "button", [["mat-button", ""]], [[1, "disabled", 0], [2, "_mat-animation-noopable", null]], null, null, i7.View_MatButton_0, i7.RenderType_MatButton)), i1.ɵdid(13, 180224, null, 0, i8.MatButton, [i1.ElementRef, i9.FocusMonitor, [2, i10.ANIMATION_MODULE_TYPE]], null, null), (_l()(), i1.ɵted(-1, 0, ["Blog"])), (_l()(), i1.ɵeld(15, 0, null, null, 4, "a", [["routerLink", "/portfolio"]], [[1, "target", 0], [8, "href", 4]], [[null, "click"]], function (_v, en, $event) { var ad = true; if (("click" === en)) {
+    } return ad; }, null, null)), i1.ɵdid(8, 16384, null, 0, i6.RouterLink, [i6.Router, i6.ActivatedRoute, [8, null], i1.Renderer2, i1.ElementRef], { routerLink: [0, "routerLink"] }, null), (_l()(), i1.ɵted(-1, null, ["Vishal Pandey"])), (_l()(), i1.ɵeld(10, 0, null, 0, 23, "span", [["class", "menu"]], null, null, null, null, null)), (_l()(), i1.ɵeld(11, 0, null, null, 3, "a", [["href", "https://www.youtube.com/channel/UCuGh7fbuAbWWXSn1CCCT3CQ?view_as=subscriber"], ["target", "_blank"]], null, null, null, null, null)), (_l()(), i1.ɵeld(12, 0, null, null, 2, "button", [["mat-button", ""]], [[1, "disabled", 0], [2, "_mat-animation-noopable", null]], null, null, i7.View_MatButton_0, i7.RenderType_MatButton)), i1.ɵdid(13, 180224, null, 0, i8.MatButton, [i1.ElementRef, i9.FocusMonitor, [2, i10.ANIMATION_MODULE_TYPE]], null, null), (_l()(), i1.ɵted(-1, 0, ["YouTube"])), (_l()(), i1.ɵeld(15, 0, null, null, 4, "a", [["routerLink", "/portfolio"]], [[1, "target", 0], [8, "href", 4]], [[null, "click"]], function (_v, en, $event) { var ad = true; if (("click" === en)) {
         var pd_0 = (i1.ɵnov(_v, 16).onClick($event.button, $event.ctrlKey, $event.metaKey, $event.shiftKey) !== false);
         ad = (pd_0 && ad);
     } return ad; }, null, null)), i1.ɵdid(16, 671744, null, 0, i6.RouterLinkWithHref, [i6.Router, i6.ActivatedRoute, i5.LocationStrategy], { routerLink: [0, "routerLink"] }, null), (_l()(), i1.ɵeld(17, 0, null, null, 2, "button", [["mat-button", ""]], [[1, "disabled", 0], [2, "_mat-animation-noopable", null]], null, null, i7.View_MatButton_0, i7.RenderType_MatButton)), i1.ɵdid(18, 180224, null, 0, i8.MatButton, [i1.ElementRef, i9.FocusMonitor, [2, i10.ANIMATION_MODULE_TYPE]], null, null), (_l()(), i1.ɵted(-1, 0, ["Portfolio"])), (_l()(), i1.ɵeld(20, 0, null, null, 4, "a", [["routerLink", "/skills"]], [[1, "target", 0], [8, "href", 4]], [[null, "click"]], function (_v, en, $event) { var ad = true; if (("click" === en)) {
@@ -1462,7 +1462,7 @@ function View_HeaderComponent_0(_l) { return i1.ɵvid(0, [(_l()(), i1.ɵeld(0, 0
     } return ad; }, null, null)), i1.ɵdid(21, 671744, null, 0, i6.RouterLinkWithHref, [i6.Router, i6.ActivatedRoute, i5.LocationStrategy], { routerLink: [0, "routerLink"] }, null), (_l()(), i1.ɵeld(22, 0, null, null, 2, "button", [["mat-button", ""]], [[1, "disabled", 0], [2, "_mat-animation-noopable", null]], null, null, i7.View_MatButton_0, i7.RenderType_MatButton)), i1.ɵdid(23, 180224, null, 0, i8.MatButton, [i1.ElementRef, i9.FocusMonitor, [2, i10.ANIMATION_MODULE_TYPE]], null, null), (_l()(), i1.ɵted(-1, 0, ["Skills"])), (_l()(), i1.ɵeld(25, 0, null, null, 4, "a", [["routerLink", "/contact"]], [[1, "target", 0], [8, "href", 4]], [[null, "click"]], function (_v, en, $event) { var ad = true; if (("click" === en)) {
         var pd_0 = (i1.ɵnov(_v, 26).onClick($event.button, $event.ctrlKey, $event.metaKey, $event.shiftKey) !== false);
         ad = (pd_0 && ad);
-    } return ad; }, null, null)), i1.ɵdid(26, 671744, null, 0, i6.RouterLinkWithHref, [i6.Router, i6.ActivatedRoute, i5.LocationStrategy], { routerLink: [0, "routerLink"] }, null), (_l()(), i1.ɵeld(27, 0, null, null, 2, "button", [["mat-button", ""]], [[1, "disabled", 0], [2, "_mat-animation-noopable", null]], null, null, i7.View_MatButton_0, i7.RenderType_MatButton)), i1.ɵdid(28, 180224, null, 0, i8.MatButton, [i1.ElementRef, i9.FocusMonitor, [2, i10.ANIMATION_MODULE_TYPE]], null, null), (_l()(), i1.ɵted(-1, 0, ["Contact Me"])), (_l()(), i1.ɵeld(30, 0, null, null, 3, "a", [["href", "/gallery"]], null, null, null, null, null)), (_l()(), i1.ɵeld(31, 0, null, null, 2, "button", [["mat-button", ""]], [[1, "disabled", 0], [2, "_mat-animation-noopable", null]], null, null, i7.View_MatButton_0, i7.RenderType_MatButton)), i1.ɵdid(32, 180224, null, 0, i8.MatButton, [i1.ElementRef, i9.FocusMonitor, [2, i10.ANIMATION_MODULE_TYPE]], null, null), (_l()(), i1.ɵted(-1, 0, ["Gallery"])), (_l()(), i1.ɵeld(34, 0, null, null, 3, "a", [["href", "https://github.com/vishal-pandey/www.vishalpandey.xyz"]], null, null, null, null, null)), (_l()(), i1.ɵeld(35, 0, null, null, 2, "button", [["mat-button", ""]], [[1, "disabled", 0], [2, "_mat-animation-noopable", null]], null, null, i7.View_MatButton_0, i7.RenderType_MatButton)), i1.ɵdid(36, 180224, null, 0, i8.MatButton, [i1.ElementRef, i9.FocusMonitor, [2, i10.ANIMATION_MODULE_TYPE]], null, null), (_l()(), i1.ɵeld(37, 0, null, 0, 0, "i", [["aria-hidden", "true"], ["class", "fa fa-github"], ["style", "font-size: 25px;"]], null, null, null, null, null))], function (_ck, _v) { var currVal_2 = "/"; _ck(_v, 5, 0, currVal_2); var currVal_3 = "/"; _ck(_v, 8, 0, currVal_3); var currVal_8 = "/portfolio"; _ck(_v, 16, 0, currVal_8); var currVal_13 = "/skills"; _ck(_v, 21, 0, currVal_13); var currVal_18 = "/contact"; _ck(_v, 26, 0, currVal_18); }, function (_ck, _v) { var currVal_0 = (i1.ɵnov(_v, 1)._toolbarRows.length > 0); var currVal_1 = (i1.ɵnov(_v, 1)._toolbarRows.length === 0); _ck(_v, 0, 0, currVal_0, currVal_1); var currVal_4 = (i1.ɵnov(_v, 13).disabled || null); var currVal_5 = (i1.ɵnov(_v, 13)._animationMode === "NoopAnimations"); _ck(_v, 12, 0, currVal_4, currVal_5); var currVal_6 = i1.ɵnov(_v, 16).target; var currVal_7 = i1.ɵnov(_v, 16).href; _ck(_v, 15, 0, currVal_6, currVal_7); var currVal_9 = (i1.ɵnov(_v, 18).disabled || null); var currVal_10 = (i1.ɵnov(_v, 18)._animationMode === "NoopAnimations"); _ck(_v, 17, 0, currVal_9, currVal_10); var currVal_11 = i1.ɵnov(_v, 21).target; var currVal_12 = i1.ɵnov(_v, 21).href; _ck(_v, 20, 0, currVal_11, currVal_12); var currVal_14 = (i1.ɵnov(_v, 23).disabled || null); var currVal_15 = (i1.ɵnov(_v, 23)._animationMode === "NoopAnimations"); _ck(_v, 22, 0, currVal_14, currVal_15); var currVal_16 = i1.ɵnov(_v, 26).target; var currVal_17 = i1.ɵnov(_v, 26).href; _ck(_v, 25, 0, currVal_16, currVal_17); var currVal_19 = (i1.ɵnov(_v, 28).disabled || null); var currVal_20 = (i1.ɵnov(_v, 28)._animationMode === "NoopAnimations"); _ck(_v, 27, 0, currVal_19, currVal_20); var currVal_21 = (i1.ɵnov(_v, 32).disabled || null); var currVal_22 = (i1.ɵnov(_v, 32)._animationMode === "NoopAnimations"); _ck(_v, 31, 0, currVal_21, currVal_22); var currVal_23 = (i1.ɵnov(_v, 36).disabled || null); var currVal_24 = (i1.ɵnov(_v, 36)._animationMode === "NoopAnimations"); _ck(_v, 35, 0, currVal_23, currVal_24); }); }
+    } return ad; }, null, null)), i1.ɵdid(26, 671744, null, 0, i6.RouterLinkWithHref, [i6.Router, i6.ActivatedRoute, i5.LocationStrategy], { routerLink: [0, "routerLink"] }, null), (_l()(), i1.ɵeld(27, 0, null, null, 2, "button", [["mat-button", ""]], [[1, "disabled", 0], [2, "_mat-animation-noopable", null]], null, null, i7.View_MatButton_0, i7.RenderType_MatButton)), i1.ɵdid(28, 180224, null, 0, i8.MatButton, [i1.ElementRef, i9.FocusMonitor, [2, i10.ANIMATION_MODULE_TYPE]], null, null), (_l()(), i1.ɵted(-1, 0, ["Contact Me"])), (_l()(), i1.ɵeld(30, 0, null, null, 3, "a", [["href", "https://github.com/vishal-pandey/www.vishalpandey.xyz"]], null, null, null, null, null)), (_l()(), i1.ɵeld(31, 0, null, null, 2, "button", [["mat-button", ""]], [[1, "disabled", 0], [2, "_mat-animation-noopable", null]], null, null, i7.View_MatButton_0, i7.RenderType_MatButton)), i1.ɵdid(32, 180224, null, 0, i8.MatButton, [i1.ElementRef, i9.FocusMonitor, [2, i10.ANIMATION_MODULE_TYPE]], null, null), (_l()(), i1.ɵeld(33, 0, null, 0, 0, "i", [["aria-hidden", "true"], ["class", "fa fa-github"], ["style", "font-size: 25px;"]], null, null, null, null, null))], function (_ck, _v) { var currVal_2 = "/"; _ck(_v, 5, 0, currVal_2); var currVal_3 = "/"; _ck(_v, 8, 0, currVal_3); var currVal_8 = "/portfolio"; _ck(_v, 16, 0, currVal_8); var currVal_13 = "/skills"; _ck(_v, 21, 0, currVal_13); var currVal_18 = "/contact"; _ck(_v, 26, 0, currVal_18); }, function (_ck, _v) { var currVal_0 = (i1.ɵnov(_v, 1)._toolbarRows.length > 0); var currVal_1 = (i1.ɵnov(_v, 1)._toolbarRows.length === 0); _ck(_v, 0, 0, currVal_0, currVal_1); var currVal_4 = (i1.ɵnov(_v, 13).disabled || null); var currVal_5 = (i1.ɵnov(_v, 13)._animationMode === "NoopAnimations"); _ck(_v, 12, 0, currVal_4, currVal_5); var currVal_6 = i1.ɵnov(_v, 16).target; var currVal_7 = i1.ɵnov(_v, 16).href; _ck(_v, 15, 0, currVal_6, currVal_7); var currVal_9 = (i1.ɵnov(_v, 18).disabled || null); var currVal_10 = (i1.ɵnov(_v, 18)._animationMode === "NoopAnimations"); _ck(_v, 17, 0, currVal_9, currVal_10); var currVal_11 = i1.ɵnov(_v, 21).target; var currVal_12 = i1.ɵnov(_v, 21).href; _ck(_v, 20, 0, currVal_11, currVal_12); var currVal_14 = (i1.ɵnov(_v, 23).disabled || null); var currVal_15 = (i1.ɵnov(_v, 23)._animationMode === "NoopAnimations"); _ck(_v, 22, 0, currVal_14, currVal_15); var currVal_16 = i1.ɵnov(_v, 26).target; var currVal_17 = i1.ɵnov(_v, 26).href; _ck(_v, 25, 0, currVal_16, currVal_17); var currVal_19 = (i1.ɵnov(_v, 28).disabled || null); var currVal_20 = (i1.ɵnov(_v, 28)._animationMode === "NoopAnimations"); _ck(_v, 27, 0, currVal_19, currVal_20); var currVal_21 = (i1.ɵnov(_v, 32).disabled || null); var currVal_22 = (i1.ɵnov(_v, 32)._animationMode === "NoopAnimations"); _ck(_v, 31, 0, currVal_21, currVal_22); }); }
 exports.View_HeaderComponent_0 = View_HeaderComponent_0;
 function View_HeaderComponent_Host_0(_l) { return i1.ɵvid(0, [(_l()(), i1.ɵeld(0, 0, null, null, 1, "app-header", [], null, null, null, View_HeaderComponent_0, RenderType_HeaderComponent)), i1.ɵdid(1, 114688, null, 0, i11.HeaderComponent, [], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
 exports.View_HeaderComponent_Host_0 = View_HeaderComponent_Host_0;
@@ -1544,13 +1544,13 @@ const i9 = __webpack_require__(/*! ./home.component */ "./src/app/components/hom
 var styles_HomeComponent = [i0.styles];
 var RenderType_HomeComponent = i1.ɵcrt({ encapsulation: 0, styles: styles_HomeComponent, data: {} });
 exports.RenderType_HomeComponent = RenderType_HomeComponent;
-function View_HomeComponent_0(_l) { return i1.ɵvid(0, [(_l()(), i1.ɵeld(0, 0, null, null, 48, "section", [["class", "container"]], null, null, null, null, null)), (_l()(), i1.ɵeld(1, 0, null, null, 47, "section", [["class", "main"]], null, null, null, null, null)), (_l()(), i1.ɵeld(2, 16777216, null, null, 42, "div", [["cdkDrag", ""], ["class", "console cdk-drag"]], [[2, "cdk-drag-disabled", null], [2, "cdk-drag-dragging", null]], null, null, null, null)), i1.ɵprd(6144, null, i2.ɵb, null, [i2.CdkDrag]), i1.ɵdid(4, 4866048, null, 3, i2.CdkDrag, [i1.ElementRef, [3, i2.CDK_DROP_LIST], i3.DOCUMENT, i1.NgZone, i1.ViewContainerRef, i2.CDK_DRAG_CONFIG, [2, i4.Directionality], i2.DragDrop, i1.ChangeDetectorRef], null, null), i1.ɵqud(603979776, 1, { _handles: 1 }), i1.ɵqud(603979776, 2, { _previewTemplate: 0 }), i1.ɵqud(603979776, 3, { _placeholderTemplate: 0 }), (_l()(), i1.ɵeld(8, 0, null, null, 5, "div", [["class", "bar"]], null, null, null, null, null)), (_l()(), i1.ɵeld(9, 0, null, null, 0, "span", [["class", "circle green"]], null, null, null, null, null)), (_l()(), i1.ɵeld(10, 0, null, null, 0, "span", [["class", "circle yellow"]], null, null, null, null, null)), (_l()(), i1.ɵeld(11, 0, null, null, 2, "span", [["class", "circle red"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+function View_HomeComponent_0(_l) { return i1.ɵvid(0, [(_l()(), i1.ɵeld(0, 0, null, null, 56, "section", [["class", "container"]], null, null, null, null, null)), (_l()(), i1.ɵeld(1, 0, null, null, 55, "section", [["class", "main"]], null, null, null, null, null)), (_l()(), i1.ɵeld(2, 16777216, null, null, 50, "div", [["cdkDrag", ""], ["class", "console cdk-drag"]], [[2, "cdk-drag-disabled", null], [2, "cdk-drag-dragging", null]], null, null, null, null)), i1.ɵprd(6144, null, i2.ɵb, null, [i2.CdkDrag]), i1.ɵdid(4, 4866048, null, 3, i2.CdkDrag, [i1.ElementRef, [3, i2.CDK_DROP_LIST], i3.DOCUMENT, i1.NgZone, i1.ViewContainerRef, i2.CDK_DRAG_CONFIG, [2, i4.Directionality], i2.DragDrop, i1.ChangeDetectorRef], null, null), i1.ɵqud(603979776, 1, { _handles: 1 }), i1.ɵqud(603979776, 2, { _previewTemplate: 0 }), i1.ɵqud(603979776, 3, { _placeholderTemplate: 0 }), (_l()(), i1.ɵeld(8, 0, null, null, 5, "div", [["class", "bar"]], null, null, null, null, null)), (_l()(), i1.ɵeld(9, 0, null, null, 0, "span", [["class", "circle green"]], null, null, null, null, null)), (_l()(), i1.ɵeld(10, 0, null, null, 0, "span", [["class", "circle yellow"]], null, null, null, null, null)), (_l()(), i1.ɵeld(11, 0, null, null, 2, "span", [["class", "circle red"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
         var pd_0 = (_co.close() !== false);
         ad = (pd_0 && ad);
-    } return ad; }, null, null)), (_l()(), i1.ɵeld(12, 0, null, null, 1, "span", [["class", "tooltip"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["close"])), (_l()(), i1.ɵeld(14, 0, null, null, 30, "div", [["class", "intro-container"]], null, null, null, null, null)), (_l()(), i1.ɵeld(15, 0, null, null, 3, "span", [], null, null, null, null, null)), (_l()(), i1.ɵeld(16, 0, null, null, 1, "span", [["class", "promt"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["C:\\Users\\Vishal>"])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0"])), (_l()(), i1.ɵeld(19, 0, null, null, 16, "span", [], null, null, null, null, null)), (_l()(), i1.ɵeld(20, 0, null, null, 1, "span", [["class", "promt"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["C:\\Users\\Vishal>"])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0 "])), (_l()(), i1.ɵeld(23, 0, null, null, 5, "a", [["class", "resume"], ["href", "https://github.com/vishal-pandey"], ["target", "_blank"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, [" Github "])), (_l()(), i1.ɵeld(25, 0, null, null, 3, "section", [["class", "github-section"]], null, null, null, null, null)), (_l()(), i1.ɵeld(26, 0, null, null, 0, "i", [["aria-hidden", "true"], ["class", "fa fa-github"]], null, null, null, null, null)), (_l()(), i1.ɵeld(27, 0, null, null, 1, "span", [], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["/vishal-pandey"])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0 "])), (_l()(), i1.ɵeld(30, 0, null, null, 5, "a", [["class", "resume"], ["href", "https://raw.githubusercontent.com/vishal-pandey/www.vishalpandey.xyz/master/Resume.pdf"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, [" Resume "])), (_l()(), i1.ɵeld(32, 0, null, null, 3, "section", [["class", "github-section"]], null, null, null, null, null)), (_l()(), i1.ɵeld(33, 0, null, null, 0, "i", [["aria-hidden", "true"], ["class", "fa fa-file-pdf-o"]], null, null, null, null, null)), (_l()(), i1.ɵeld(34, 0, null, null, 1, "span", [], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["Download"])), (_l()(), i1.ɵeld(36, 0, null, null, 3, "span", [], null, null, null, null, null)), (_l()(), i1.ɵeld(37, 0, null, null, 1, "span", [["class", "promt"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["C:\\Users\\Vishal>"])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0"])), (_l()(), i1.ɵeld(40, 0, null, null, 4, "span", [], null, null, null, null, null)), (_l()(), i1.ɵeld(41, 0, null, null, 1, "span", [["class", "promt"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["C:\\Users\\Vishal>"])), (_l()(), i1.ɵted(-1, null, ["\u00A0 "])), (_l()(), i1.ɵeld(44, 0, null, null, 0, "span", [["class", "intro"]], null, null, null, null, null)), (_l()(), i1.ɵeld(45, 0, null, null, 3, "div", [["class", "bringBackButton"], ["style", "display: none;"]], null, null, null, null, null)), (_l()(), i1.ɵeld(46, 0, null, null, 2, "button", [["mat-stroked-button", ""]], [[1, "disabled", 0], [2, "_mat-animation-noopable", null]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+    } return ad; }, null, null)), (_l()(), i1.ɵeld(12, 0, null, null, 1, "span", [["class", "tooltip"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["close"])), (_l()(), i1.ɵeld(14, 0, null, null, 38, "div", [["class", "intro-container"]], null, null, null, null, null)), (_l()(), i1.ɵeld(15, 0, null, null, 3, "span", [], null, null, null, null, null)), (_l()(), i1.ɵeld(16, 0, null, null, 1, "span", [["class", "promt"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["C:\\Users\\Vishal>"])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0"])), (_l()(), i1.ɵeld(19, 0, null, null, 24, "span", [], null, null, null, null, null)), (_l()(), i1.ɵeld(20, 0, null, null, 1, "span", [["class", "promt"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["C:\\Users\\Vishal>"])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0 "])), (_l()(), i1.ɵeld(23, 0, null, null, 5, "a", [["class", "resume"], ["href", "https://github.com/vishal-pandey"], ["target", "_blank"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, [" Github "])), (_l()(), i1.ɵeld(25, 0, null, null, 3, "section", [["class", "github-section"]], null, null, null, null, null)), (_l()(), i1.ɵeld(26, 0, null, null, 0, "i", [["aria-hidden", "true"], ["class", "fa fa-github"]], null, null, null, null, null)), (_l()(), i1.ɵeld(27, 0, null, null, 1, "span", [], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["/vishal-pandey"])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0 "])), (_l()(), i1.ɵeld(30, 0, null, null, 5, "a", [["class", "resume"], ["href", "https://raw.githubusercontent.com/vishal-pandey/www.vishalpandey.xyz/master/Resume.pdf"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, [" Resume "])), (_l()(), i1.ɵeld(32, 0, null, null, 3, "section", [["class", "github-section"]], null, null, null, null, null)), (_l()(), i1.ɵeld(33, 0, null, null, 0, "i", [["aria-hidden", "true"], ["class", "fa fa-file-pdf-o"]], null, null, null, null, null)), (_l()(), i1.ɵeld(34, 0, null, null, 1, "span", [], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["Download"])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0 "])), (_l()(), i1.ɵeld(37, 0, null, null, 5, "a", [["class", "resume"], ["href", "https://www.youtube.com/channel/UCuGh7fbuAbWWXSn1CCCT3CQ?view_as=subscriber"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, [" YouTube "])), (_l()(), i1.ɵeld(39, 0, null, null, 3, "section", [["class", "github-section"]], null, null, null, null, null)), (_l()(), i1.ɵeld(40, 0, null, null, 0, "i", [["aria-hidden", "true"], ["class", "fa fa-youtube"]], null, null, null, null, null)), (_l()(), i1.ɵeld(41, 0, null, null, 1, "span", [], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["Subscribe"])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0 "])), (_l()(), i1.ɵeld(44, 0, null, null, 3, "span", [], null, null, null, null, null)), (_l()(), i1.ɵeld(45, 0, null, null, 1, "span", [["class", "promt"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["C:\\Users\\Vishal>"])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0"])), (_l()(), i1.ɵeld(48, 0, null, null, 4, "span", [], null, null, null, null, null)), (_l()(), i1.ɵeld(49, 0, null, null, 1, "span", [["class", "promt"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["C:\\Users\\Vishal>"])), (_l()(), i1.ɵted(-1, null, ["\u00A0 "])), (_l()(), i1.ɵeld(52, 0, null, null, 0, "span", [["class", "intro"]], null, null, null, null, null)), (_l()(), i1.ɵeld(53, 0, null, null, 3, "div", [["class", "bringBackButton"], ["style", "display: none;"]], null, null, null, null, null)), (_l()(), i1.ɵeld(54, 0, null, null, 2, "button", [["mat-stroked-button", ""]], [[1, "disabled", 0], [2, "_mat-animation-noopable", null]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
         var pd_0 = (_co.bringBack() !== false);
         ad = (pd_0 && ad);
-    } return ad; }, i5.View_MatButton_0, i5.RenderType_MatButton)), i1.ɵdid(47, 180224, null, 0, i6.MatButton, [i1.ElementRef, i7.FocusMonitor, [2, i8.ANIMATION_MODULE_TYPE]], null, null), (_l()(), i1.ɵted(-1, 0, ["Open"]))], null, function (_ck, _v) { var currVal_0 = i1.ɵnov(_v, 4).disabled; var currVal_1 = i1.ɵnov(_v, 4)._dragRef.isDragging(); _ck(_v, 2, 0, currVal_0, currVal_1); var currVal_2 = (i1.ɵnov(_v, 47).disabled || null); var currVal_3 = (i1.ɵnov(_v, 47)._animationMode === "NoopAnimations"); _ck(_v, 46, 0, currVal_2, currVal_3); }); }
+    } return ad; }, i5.View_MatButton_0, i5.RenderType_MatButton)), i1.ɵdid(55, 180224, null, 0, i6.MatButton, [i1.ElementRef, i7.FocusMonitor, [2, i8.ANIMATION_MODULE_TYPE]], null, null), (_l()(), i1.ɵted(-1, 0, ["Open"]))], null, function (_ck, _v) { var currVal_0 = i1.ɵnov(_v, 4).disabled; var currVal_1 = i1.ɵnov(_v, 4)._dragRef.isDragging(); _ck(_v, 2, 0, currVal_0, currVal_1); var currVal_2 = (i1.ɵnov(_v, 55).disabled || null); var currVal_3 = (i1.ɵnov(_v, 55)._animationMode === "NoopAnimations"); _ck(_v, 54, 0, currVal_2, currVal_3); }); }
 exports.View_HomeComponent_0 = View_HomeComponent_0;
 function View_HomeComponent_Host_0(_l) { return i1.ɵvid(0, [(_l()(), i1.ɵeld(0, 0, null, null, 1, "app-home", [], null, null, null, View_HomeComponent_0, RenderType_HomeComponent)), i1.ɵdid(1, 114688, null, 0, i9.HomeComponent, [], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
 exports.View_HomeComponent_Host_0 = View_HomeComponent_Host_0;
@@ -1579,12 +1579,9 @@ class HomeComponent {
             strings: ["Hi",
                 "My Name Is Vishal Pandey",
                 "I am Freelance Software Developer",
-                "I make Websites",
-                "I make Mobile Apps",
-                "You can hire me for projects",
-                "I take projects for cloud Computing",
-                "I take projects for E-Commerce",
-                "I take projects for Management systems",
+                "I provide solutions related to Machine Learning",
+                "I provide solutions related to Computer Vision",
+                "I provide solutions related to Forcasting and Prediction",
                 "Click Contact to Contact Me",
                 "For hiring Call me directly",
                 "Phone no. is below",
@@ -1747,7 +1744,7 @@ const i3 = __webpack_require__(/*! ./portfolio.component */ "./src/app/component
 var styles_PortfolioComponent = [i0.styles];
 var RenderType_PortfolioComponent = i1.ɵcrt({ encapsulation: 0, styles: styles_PortfolioComponent, data: {} });
 exports.RenderType_PortfolioComponent = RenderType_PortfolioComponent;
-function View_PortfolioComponent_1(_l) { return i1.ɵvid(0, [(_l()(), i1.ɵeld(0, 0, null, null, 27, "div", [["class", "project"]], null, null, null, null, null)), (_l()(), i1.ɵeld(1, 0, null, null, 1, "div", [["class", "photo"]], null, null, null, null, null)), (_l()(), i1.ɵeld(2, 0, null, null, 0, "img", [], [[8, "src", 4]], null, null, null, null)), (_l()(), i1.ɵeld(3, 0, null, null, 24, "div", [["class", "description"]], null, null, null, null, null)), (_l()(), i1.ɵeld(4, 0, null, null, 11, "div", [["class", "d-head"]], null, null, null, null, null)), (_l()(), i1.ɵeld(5, 0, null, null, 10, "h3", [], null, null, null, null, null)), (_l()(), i1.ɵeld(6, 0, null, null, 2, "span", [["class", "github"]], null, null, null, null, null)), (_l()(), i1.ɵeld(7, 0, null, null, 1, "a", [["target", "_blank"]], [[8, "href", 4]], null, null, null, null)), (_l()(), i1.ɵeld(8, 0, null, null, 0, "i", [["aria-hidden", "true"], ["class", "fa fa-link"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, [" \u00A0\u00A0\u00A0\u00A0\u00A0"])), (_l()(), i1.ɵeld(10, 0, null, null, 1, "span", [], null, null, null, null, null)), (_l()(), i1.ɵted(11, null, ["", ""])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0\u00A0\u00A0\u00A0 "])), (_l()(), i1.ɵeld(13, 0, null, null, 2, "span", [["class", "github"]], null, null, null, null, null)), (_l()(), i1.ɵeld(14, 0, null, null, 1, "a", [["target", "_blank"]], [[8, "href", 4]], null, null, null, null)), (_l()(), i1.ɵeld(15, 0, null, null, 0, "i", [["aria-hidden", "true"], ["class", "fa fa-github"]], null, null, null, null, null)), (_l()(), i1.ɵeld(16, 0, null, null, 11, "div", [["class", "the-description"]], null, null, null, null, null)), (_l()(), i1.ɵeld(17, 0, null, null, 1, "b", [], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["Technologies"])), (_l()(), i1.ɵted(-1, null, [" : "])), (_l()(), i1.ɵeld(20, 0, null, null, 1, "span", [["class", "tech"]], null, null, null, null, null)), (_l()(), i1.ɵted(21, null, ["", ""])), (_l()(), i1.ɵeld(22, 0, null, null, 0, "br", [], null, null, null, null, null)), (_l()(), i1.ɵeld(23, 0, null, null, 1, "b", [], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["Features"])), (_l()(), i1.ɵted(-1, null, [" : "])), (_l()(), i1.ɵeld(26, 0, null, null, 1, "span", [["class", "features"]], null, null, null, null, null)), (_l()(), i1.ɵted(27, null, ["", ""]))], null, function (_ck, _v) { var currVal_0 = i1.ɵinlineInterpolate(1, "", _v.context.$implicit.photo, ""); _ck(_v, 2, 0, currVal_0); var currVal_1 = i1.ɵinlineInterpolate(1, "", _v.context.$implicit.link, ""); _ck(_v, 7, 0, currVal_1); var currVal_2 = _v.context.$implicit.name; _ck(_v, 11, 0, currVal_2); var currVal_3 = i1.ɵinlineInterpolate(1, "", _v.context.$implicit.github, ""); _ck(_v, 14, 0, currVal_3); var currVal_4 = _v.context.$implicit.tech; _ck(_v, 21, 0, currVal_4); var currVal_5 = _v.context.$implicit.feat; _ck(_v, 27, 0, currVal_5); }); }
+function View_PortfolioComponent_1(_l) { return i1.ɵvid(0, [(_l()(), i1.ɵeld(0, 0, null, null, 42, "div", [["class", "project"]], null, null, null, null, null)), (_l()(), i1.ɵeld(1, 0, null, null, 1, "div", [["class", "photo"]], null, null, null, null, null)), (_l()(), i1.ɵeld(2, 0, null, null, 0, "img", [], [[8, "src", 4]], null, null, null, null)), (_l()(), i1.ɵeld(3, 0, null, null, 39, "div", [["class", "description"]], null, null, null, null, null)), (_l()(), i1.ɵeld(4, 0, null, null, 5, "div", [["class", "d-head"]], null, null, null, null, null)), (_l()(), i1.ɵeld(5, 0, null, null, 4, "h3", [], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, [" \u00A0\u00A0\u00A0\u00A0\u00A0"])), (_l()(), i1.ɵeld(7, 0, null, null, 1, "span", [], null, null, null, null, null)), (_l()(), i1.ɵted(8, null, ["", ""])), (_l()(), i1.ɵted(-1, null, ["\u00A0\u00A0\u00A0\u00A0\u00A0 "])), (_l()(), i1.ɵeld(10, 0, null, null, 32, "div", [["class", "the-description"]], null, null, null, null, null)), (_l()(), i1.ɵeld(11, 0, null, null, 1, "b", [["style", "color: black"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["Technologies"])), (_l()(), i1.ɵted(-1, null, [" : "])), (_l()(), i1.ɵeld(14, 0, null, null, 1, "span", [["class", "tech"]], null, null, null, null, null)), (_l()(), i1.ɵted(15, null, ["", ""])), (_l()(), i1.ɵeld(16, 0, null, null, 0, "br", [], null, null, null, null, null)), (_l()(), i1.ɵeld(17, 0, null, null, 0, "br", [], null, null, null, null, null)), (_l()(), i1.ɵeld(18, 0, null, null, 1, "b", [["style", "color: black"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["Features"])), (_l()(), i1.ɵted(-1, null, [" : "])), (_l()(), i1.ɵeld(21, 0, null, null, 1, "span", [["class", "features"]], null, null, null, null, null)), (_l()(), i1.ɵted(22, null, ["", ""])), (_l()(), i1.ɵeld(23, 0, null, null, 0, "br", [], null, null, null, null, null)), (_l()(), i1.ɵeld(24, 0, null, null, 0, "br", [], null, null, null, null, null)), (_l()(), i1.ɵeld(25, 0, null, null, 2, "b", [["style", "color: black"]], null, null, null, null, null)), (_l()(), i1.ɵeld(26, 0, null, null, 0, "i", [["aria-hidden", "true"], ["class", "fa fa-github"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, [" Github Link"])), (_l()(), i1.ɵted(-1, null, [" : "])), (_l()(), i1.ɵeld(29, 0, null, null, 2, "span", [["class", "features"]], null, null, null, null, null)), (_l()(), i1.ɵeld(30, 0, null, null, 1, "a", [["style", "color: #263268"], ["target", "_blank"]], [[8, "href", 4]], null, null, null, null)), (_l()(), i1.ɵted(31, null, ["", ""])), (_l()(), i1.ɵeld(32, 0, null, null, 0, "br", [], null, null, null, null, null)), (_l()(), i1.ɵeld(33, 0, null, null, 0, "br", [], null, null, null, null, null)), (_l()(), i1.ɵeld(34, 0, null, null, 2, "b", [["style", "color: black"]], null, null, null, null, null)), (_l()(), i1.ɵeld(35, 0, null, null, 0, "i", [["aria-hidden", "true"], ["class", "fa fa-link"]], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, [" Project Link"])), (_l()(), i1.ɵted(-1, null, [" : "])), (_l()(), i1.ɵeld(38, 0, null, null, 2, "span", [["class", "features"]], null, null, null, null, null)), (_l()(), i1.ɵeld(39, 0, null, null, 1, "a", [["style", "color: #263268"], ["target", "_blank"]], [[8, "href", 4]], null, null, null, null)), (_l()(), i1.ɵted(40, null, ["", ""])), (_l()(), i1.ɵeld(41, 0, null, null, 0, "br", [], null, null, null, null, null)), (_l()(), i1.ɵeld(42, 0, null, null, 0, "br", [], null, null, null, null, null))], null, function (_ck, _v) { var currVal_0 = i1.ɵinlineInterpolate(1, "", _v.context.$implicit.photo, ""); _ck(_v, 2, 0, currVal_0); var currVal_1 = _v.context.$implicit.name; _ck(_v, 8, 0, currVal_1); var currVal_2 = _v.context.$implicit.tech; _ck(_v, 15, 0, currVal_2); var currVal_3 = _v.context.$implicit.feat; _ck(_v, 22, 0, currVal_3); var currVal_4 = i1.ɵinlineInterpolate(1, "", _v.context.$implicit.github, ""); _ck(_v, 30, 0, currVal_4); var currVal_5 = _v.context.$implicit.github; _ck(_v, 31, 0, currVal_5); var currVal_6 = i1.ɵinlineInterpolate(1, "", _v.context.$implicit.link, ""); _ck(_v, 39, 0, currVal_6); var currVal_7 = _v.context.$implicit.link; _ck(_v, 40, 0, currVal_7); }); }
 function View_PortfolioComponent_0(_l) { return i1.ɵvid(0, [(_l()(), i1.ɵeld(0, 0, null, null, 7, "section", [["class", "container"]], null, null, null, null, null)), (_l()(), i1.ɵeld(1, 0, null, null, 0, "br", [], null, null, null, null, null)), (_l()(), i1.ɵeld(2, 0, null, null, 1, "h2", [], null, null, null, null, null)), (_l()(), i1.ɵted(-1, null, ["PORTFOLIO"])), (_l()(), i1.ɵeld(4, 0, null, null, 2, "section", [["class", "content"]], null, null, null, null, null)), (_l()(), i1.ɵand(16777216, null, null, 1, null, View_PortfolioComponent_1)), i1.ɵdid(6, 278528, null, 0, i2.NgForOf, [i1.ViewContainerRef, i1.TemplateRef, i1.IterableDiffers], { ngForOf: [0, "ngForOf"] }, null), (_l()(), i1.ɵeld(7, 0, null, null, 0, "br", [], null, null, null, null, null))], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.projects; _ck(_v, 6, 0, currVal_0); }, null); }
 exports.View_PortfolioComponent_0 = View_PortfolioComponent_0;
 function View_PortfolioComponent_Host_0(_l) { return i1.ɵvid(0, [(_l()(), i1.ɵeld(0, 0, null, null, 1, "app-portfolio", [], null, null, null, View_PortfolioComponent_0, RenderType_PortfolioComponent)), i1.ɵdid(1, 114688, null, 0, i3.PortfolioComponent, [], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
@@ -1772,6 +1769,38 @@ const core_1 = __webpack_require__(/*! @angular/core */ "@angular/core");
 class PortfolioComponent {
     constructor() {
         this.projects = [
+            {
+                name: 'Real Time Peer to Peer Server Less Chat',
+                photo: 'assets/portfolio/p2p.png',
+                link: 'https://server-less.vishalpandey.xyz/',
+                github: 'https://github.com/vishal-pandey/server-less-chat',
+                tech: 'Javascript, HTML, Angular, PeerJs, WebRTC',
+                feat: 'Share the peer key to your friend and start to chat with your friend without worrying about security as it directly transmit data, audio, video feeds directly your friend compyter with the help of WebRTC protocol',
+            },
+            {
+                name: 'Twitter Sentiment Analysis',
+                photo: 'assets/portfolio/twitter.png',
+                link: 'https://twitter.vishalpandey.co.in/',
+                github: 'https://github.com/vishal-pandey/twitter-sentiment-analysis',
+                tech: 'Javascript, Python, Machine Learning, HTML, NLTK, Scikit Learn, FLASK',
+                feat: 'Type any keyword in the search field and the app will fetch recent 100 tweets and analyse it and present a report to you',
+            },
+            {
+                name: 'Real Time Face Detection',
+                photo: 'https://raw.githubusercontent.com/vishal-pandey/real-time-face-detection/master/screenshot.png',
+                link: 'https://face.vishalpandey.co.in/',
+                github: 'https://github.com/vishal-pandey/real-time-face-detection/',
+                tech: 'Javascript, Python, Machine Learning, Face Api, HTML, YoLo',
+                feat: 'It detects the face in the real time video feed and outline landmarks on the face and tries to gess the mood the person',
+            },
+            {
+                name: 'Hand Written Digit Recognition',
+                photo: 'assets/portfolio/ocr.png',
+                link: 'https://ann.vishalpandey.xyz/',
+                github: 'https://github.com/vishal-pandey/mnist-ann',
+                tech: 'Python, Machine Learning, Neural Network, Decision Tree Calssifier, keras, scikit learn',
+                feat: 'Write any digit between 0 to 9 in the box, the trained model will guess the digit you written. Hosted on AWS with django',
+            },
             {
                 name: 'IOT Demo',
                 photo: 'assets/portfolio/iotdemo.png',
@@ -1973,6 +2002,42 @@ class SkillsComponent {
     constructor() {
         this.skills = [
             {
+                name: 'Numpy',
+                img: 'https://user-images.githubusercontent.com/1217238/65366817-d340b780-dbdd-11e9-9eea-6dacf412212b.png'
+            },
+            {
+                name: 'MatPlotLib',
+                img: 'https://matplotlib.org/3.2.0/_static/logo2_compressed.svg'
+            },
+            {
+                name: 'Pandas',
+                img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png'
+            },
+            {
+                name: 'Scikit Learn',
+                img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png'
+            },
+            {
+                name: 'Keras',
+                img: 'https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png'
+            },
+            {
+                name: 'Tensorflow',
+                img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png'
+            },
+            {
+                name: 'Django',
+                img: 'https://www.djangoproject.com/m/img/logos/django-logo-negative.png'
+            },
+            {
+                name: 'Angular V4+',
+                img: 'https://angular.io/assets/images/logos/angular/angular.png'
+            },
+            {
+                name: 'IoT',
+                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/iot.png'
+            },
+            {
                 name: 'Amazon Web Services',
                 img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2000px-Amazon_Web_Services_Logo.svg.png'
             },
@@ -1984,78 +2049,6 @@ class SkillsComponent {
                 name: 'Digital Ocean',
                 img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png'
             },
-            {
-                name: 'Web Designing',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/webd.png'
-            },
-            {
-                name: 'Web Developement',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/webdd.png'
-            },
-            {
-                name: 'UI / UX Design',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/ui-ux.png'
-            },
-            {
-                name: 'Dashboard Designing',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/dashboard.png'
-            },
-            {
-                name: 'Content Writing',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/content-writing.png'
-            },
-            {
-                name: 'Search Engine Optimisation',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/seo.png'
-            },
-            {
-                name: 'Portal Design',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/portal.png'
-            },
-            {
-                name: 'E-Commerce Solutions',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/ecom.png'
-            },
-            {
-                name: 'Business Consultancy',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/Business-Consulting.png'
-            },
-            {
-                name: 'Domain Names',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/domain.png'
-            },
-            {
-                name: 'Web/App Hosting Solutions',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/hosting.png'
-            },
-            {
-                name: 'Cloud Computing',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/cloud.png'
-            },
-            {
-                name: 'Database Support',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/database.png'
-            },
-            {
-                name: 'Android App Development',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/android.png'
-            },
-            {
-                name: 'IOS App Development',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/ios.png'
-            },
-            {
-                name: 'Windows App Development',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/windows.png'
-            },
-            {
-                name: 'Mac OS App Development',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/mac.png'
-            },
-            {
-                name: 'IOT Based Solutions',
-                img: 'https://raw.githubusercontent.com/vishal-pandey/cdn/master/iot.png'
-            }
         ];
     }
     ngOnInit() {
@@ -2092,7 +2085,7 @@ exports.LAZY_MODULE_MAP = {};
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/vishalpandey/Documents/Projects/newwebste/universal/src/main.server.ts */"./src/main.server.ts");
+module.exports = __webpack_require__(/*! /Users/vishalpandey/Desktop/www.vishalpandey.xyz/src/main.server.ts */"./src/main.server.ts");
 
 
 /***/ }),
