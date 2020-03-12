@@ -1771,7 +1771,7 @@ class PortfolioComponent {
         this.projects = [
             {
                 name: 'Real Time Peer to Peer Server Less Chat',
-                photo: 'assets/portfolio/p2p.png',
+                photo: 'https://raw.githubusercontent.com/vishal-pandey/www.vishalpandey.xyz/master/src/assets/portfolio/p2p.png',
                 link: 'https://server-less.vishalpandey.xyz/',
                 github: 'https://github.com/vishal-pandey/server-less-chat',
                 tech: 'Javascript, HTML, Angular, PeerJs, WebRTC',
@@ -1779,7 +1779,7 @@ class PortfolioComponent {
             },
             {
                 name: 'Twitter Sentiment Analysis',
-                photo: 'assets/portfolio/twitter.png',
+                photo: 'https://raw.githubusercontent.com/vishal-pandey/www.vishalpandey.xyz/master/src/assets/portfolio/twitter.png',
                 link: 'https://twitter.vishalpandey.co.in/',
                 github: 'https://github.com/vishal-pandey/twitter-sentiment-analysis',
                 tech: 'Javascript, Python, Machine Learning, HTML, NLTK, Scikit Learn, FLASK',
@@ -1795,7 +1795,7 @@ class PortfolioComponent {
             },
             {
                 name: 'Hand Written Digit Recognition',
-                photo: 'assets/portfolio/ocr.png',
+                photo: 'https://raw.githubusercontent.com/vishal-pandey/www.vishalpandey.xyz/master/src/assets/portfolio/ocr.png',
                 link: 'https://ann.vishalpandey.xyz/',
                 github: 'https://github.com/vishal-pandey/mnist-ann',
                 tech: 'Python, Machine Learning, Neural Network, Decision Tree Calssifier, keras, scikit learn',
@@ -1803,7 +1803,7 @@ class PortfolioComponent {
             },
             {
                 name: 'IOT Demo',
-                photo: 'assets/portfolio/iotdemo.png',
+                photo: 'https://raw.githubusercontent.com/vishal-pandey/www.vishalpandey.xyz/master/src/assets/portfolio/iotdemo.png',
                 link: 'https://iotdemo.vishalpandey.xyz/',
                 github: 'https://github.com/vishal-pandey/iotdemo',
                 tech: 'Python, PHP, Javascript, Angular, Raspberry Pi',
